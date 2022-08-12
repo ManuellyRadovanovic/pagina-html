@@ -1,6 +1,6 @@
-body
-h1
-b
-i
-header ,footer
-main
+body{background-color: bisque;text-align: justify;}
+h1{text-align: center;background-color:  ;color:  ;}
+b{color: ; font-size: 18px;}
+i{color: ; font-size: 18px;}
+header ,footer{background-color: ;color: ;text-align: center;}
+main{background-color: ;}
