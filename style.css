@@ -1,6 +1,6 @@
 body{background-color:#FFB7CC;text-align: justify;}
-h1{text-align: center;background-color:BLACK  ;color: palevioletred ;}
-b{color:salmon ; font-size: 18px;}
-i{color:salmon ; font-size: 18px;}
-header ,footer{background-color:crimson;color:palevioletred ;text-align: center;}
-main{background-color:black ;}
+h1{text-align: center;background-color:BLACK; color: palevioletred ;}
+b{color:salmon; font-size: 18px;}
+i{color:salmon; font-size: 18px;}
+header, footer{background-color:crimson; color:palevioletred; text-align: center;}
+main{background-color:black;}
